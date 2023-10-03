@@ -146,6 +146,10 @@ border-radius: 15px;
 }
 
 
+.form-6 a{
+    text-decoration: none;
+}
+
 
 .form:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
